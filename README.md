@@ -2,7 +2,7 @@
 
 ### I'm a third year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad!
 ### Area of Interest: Web Development,Machine Learning & Deep Learning,Problem Solving using computer programming.
-### Check out my resume here: https://drive.google.com/file/d/1Oyl8suGHsVz3jxw4ABcTLNr1AIsJrGsT/view?usp=sharing
+### Check out my resume here: https://drive.google.com/drive/folders/1RGu8Fxl4nKbqjqrOipLtwYM-OePZKCd5?usp=sharing
 ### Check Leetcode Profile here: https://leetcode.com/priyanka_1507/
 ### Check Hackerrank Profile here: https://www.hackerrank.com/priyankasoni0191
 ### Check Hackerearth Profile here: http://www.hackerearth.com/@priyanka2228
