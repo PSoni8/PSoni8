@@ -3,7 +3,6 @@
 ### I'm a third year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad!
 ### Area of Interest: Web Development,Machine Learning & Deep Learning,Problem Solving using programming.
 ### Check out my Portfolio:https://psoni8.github.io/
-### Check out my resume here: https://drive.google.com/file/d/1kzRAjBxObR_zcMgENjn0aBw7xcJmGxGt/view?usp=sharing
 ### Check Leetcode Profile here: https://leetcode.com/priyanka_1507/
 ### Check Hackerrank Profile here: https://www.hackerrank.com/priyankasoni0191
 ### Check Hackerearth Profile here: http://www.hackerearth.com/@priyanka2228
@@ -11,3 +10,4 @@
 ### Check Codechef Profile here: https://www.codechef.com/users/priyanka_1507
 ### Check Atcoder Profile here: https://atcoder.jp/users/PSoni
 ### Check GeeksForGeeks Profile here: https://auth.geeksforgeeks.org/user/priyankasoni01999/profile
+### Check SPoJ Profile here: https://www.spoj.com/users/psoni_1507/
