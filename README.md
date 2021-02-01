@@ -6,7 +6,7 @@
 #### Read on: https://medium.com/@PSoni_15
 #### Connect on: https://www.linkedin.com/in/priyanka-soni-131668176
 #### Mail to: priyankasoni01999@gmail.com
-#### Thoughts on: https://twitter.com/Priyank98970431?s=09
+#### Thoughts on: https://twitter.com/Priyank98970431?s=
 ### Coding Profiles:
 #### Check Leetcode Profile here: https://leetcode.com/priyanka_1507/
 #### Check Hackerrank Profile here: https://www.hackerrank.com/priyankasoni0191
