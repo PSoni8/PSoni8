@@ -1,11 +1,11 @@
 ## Hi there ,This is Priyanka soni.👋
 
 ### I'm a third year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad!
-### Area of Interest: Web Development,Machine Learning & Deep Learning,Problem Solving using programming.
-#### Check out my Portfolio:https://psoni8.github.io/
+### Working area: Web Development,Machine Learning & Deep Learning,Problem Solving using programming.
+
 #### Read on: https://medium.com/@PSoni_15
 #### Connect on: https://www.linkedin.com/in/priyanka-soni-131668176
-#### Mail to: priyankasoni01999@gmail.com
+#### Mail to:
 
 ### Coding Profiles:
 #### Check Leetcode Profile here: https://leetcode.com/priyanka_1507/
