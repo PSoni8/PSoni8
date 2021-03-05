@@ -1,7 +1,6 @@
 ## Hi there ,This is Priyanka soni.👋
-I'm a third year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad!
-
-### Working area: Web Development,Machine Learning & Deep Learning,Problem Solving.
+I'm a third year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad! </br>
+Working area: Web Development,Machine Learning & Deep Learning,Problem Solving.
 
 #### Read on
 https://medium.com/@PSoni_15
