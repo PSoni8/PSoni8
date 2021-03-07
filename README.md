@@ -22,5 +22,5 @@ https://www.codechef.com/users/priyanka_1507
 https://atcoder.jp/users/PSoni
 #### Check GeeksForGeeks Profile here
 https://auth.geeksforgeeks.org/user/priyankasoni01999/profile
-#### Check SPoJ Profile here
-https://www.spoj.com/users/psoni_1507/
+
+
