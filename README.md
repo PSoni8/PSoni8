@@ -8,8 +8,8 @@ https://medium.com/@PSoni_15
 https://www.linkedin.com/in/priyanka-soni-131668176
 
 ### Coding Profiles:
-#### Check Leetcode Profile here 
-https://leetcode.com/priyanka_1507/
+[Leetcode Profile]
+(https://leetcode.com/priyanka_1507/)
 #### Check Hackerrank Profile here
 https://www.hackerrank.com/priyankasoni0191
 #### Check Hackerearth Profile here
