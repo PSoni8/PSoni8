@@ -1,10 +1,9 @@
 ## Hi there ,This is Priyanka soni.👋
 I'm a final year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad! </br>
-Working area: Web Development,Machine Learning & Deep Learning.
+Working area: Web Development,Machine Learning & Deep Learning. </br>
 [Read on](https://medium.com/@PSoni_15) </br>
 [Connect on](https://www.linkedin.com/in/priyanka-soni-131668176)
-
-### Coding Profiles:
+#### Coding Profiles:
 [Leetcode Profile](https://leetcode.com/priyanka_1507/) </br>
 [Hackerearth Profile](http://www.hackerearth.com/@priyanka2228) </br>
 [Codeforces Profile](https://codeforces.com/profile/PS1507) </br>
