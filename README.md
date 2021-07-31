@@ -1,5 +1,5 @@
 ## Hi there ,This is Priyanka soni.👋
-I'm a final year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad! </br>
+I'm a final year undergraduate student pursuing Electronics & Communication Engineering from MNNIT Allahabad!! </br>
 Working area: Web Development,Machine Learning & Deep Learning. </br>
 [Read on](https://medium.com/@PSoni_15) </br>
 [Connect on](https://www.linkedin.com/in/priyanka-soni-131668176)
