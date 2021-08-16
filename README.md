@@ -9,7 +9,6 @@ Working area: Web Development,Machine Learning & Deep Learning. </br>
 [Codeforces Profile](https://codeforces.com/profile/PS1507) </br>
 [Codechef Profile](https://www.codechef.com/users/priyanka_1507) </br>
 [Hackerrank Profile](https://www.hackerrank.com/priyankasoni0191) </br>
-[Atcoder Profile](https://atcoder.jp/users/PSoni) </br>
 [GeeksForGeeks Profile](https://auth.geeksforgeeks.org/user/priyankasoni01999/profile)
 
 
