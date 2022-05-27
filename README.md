@@ -1,5 +1,5 @@
 ## Hi there ,This is Priyanka soni.👋
-I'm a undergraduate student completed B.Tech. in Electronics & Communication Engineering from MNNIT Allahabad!! </br>
+I'm undergraduate student completed B.Tech. in Electronics & Communication Engineering from MNNIT Allahabad!! </br>
 Working area: Web Development,Machine Learning & Deep Learning. </br>
 [Connect on](https://www.linkedin.com/in/priyanka-soni-131668176)
 #### Coding Profiles:
